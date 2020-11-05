@@ -1,11 +1,11 @@
-# fetchrewards_assignment
+# Fetch rewards assignment
 
 Python Version : 3.7.5
 
 To run : 
 
 1) pip install -r requirements.txt
-2) python main.py
+2) python main.py (to start the server)
 
 Use postman to make the request body in the following manner with the content type as json and make a POST request to localhost:80/getUnique:
 
