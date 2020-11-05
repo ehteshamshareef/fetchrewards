@@ -6,6 +6,8 @@ To run :
 
 1) Install Python 3.7.5 (https://www.python.org/downloads/release/python-375/)
 2) Install the requirements by opening the terminal and navigating to the folder where the files are:
+
+
    Type this in the terminal ->    pip install -r requirements.txt
 3) Execute in the terminal -> python main.py (to start the server)
 
